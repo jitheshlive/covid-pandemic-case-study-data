@@ -1,0 +1,970 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Belgium,2020-12-28,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,340,340,0,0
+Belgium,2020-12-29,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,381,380,11,0
+Belgium,2020-12-30,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,913,911,21,0
+Belgium,2020-12-31,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,961,959,21,0
+Belgium,2021-01-01,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,980,978,21,0
+Belgium,2021-01-02,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,1007,1005,34,0
+Belgium,2021-01-03,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,1041,1039,34,0
+Belgium,2021-01-04,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,1114,1111,50,0
+Belgium,2021-01-05,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,2910,2903,81,0
+Belgium,2021-01-06,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,6946,6938,111,0
+Belgium,2021-01-07,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,15467,15452,132,0
+Belgium,2021-01-08,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,24918,24895,185,0
+Belgium,2021-01-09,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,28218,28192,204,0
+Belgium,2021-01-10,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,28717,28689,206,0
+Belgium,2021-01-11,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,34469,34430,226,0
+Belgium,2021-01-12,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,50581,50530,259,0
+Belgium,2021-01-13,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,72551,72380,397,0
+Belgium,2021-01-14,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,96147,95957,427,0
+Belgium,2021-01-15,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,119870,119671,457,0
+Belgium,2021-01-16,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,125122,124919,471,0
+Belgium,2021-01-17,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,128425,128193,500,0
+Belgium,2021-01-18,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,139736,139354,663,0
+Belgium,2021-01-19,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,159245,158655,908,0
+Belgium,2021-01-20,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,181027,179963,1410,0
+Belgium,2021-01-21,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,211468,210362,1476,0
+Belgium,2021-01-22,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,241725,240570,1563,0
+Belgium,2021-01-23,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,250268,249100,1587,0
+Belgium,2021-01-24,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,252223,251021,1621,0
+Belgium,2021-01-25,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,263711,262479,1674,0
+Belgium,2021-01-26,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,276722,273706,3480,0
+Belgium,2021-01-27,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,293607,287123,6987,0
+Belgium,2021-01-28,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,317691,303254,14971,0
+Belgium,2021-01-29,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,339532,315868,24232,0
+Belgium,2021-01-30,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,344127,317532,27175,0
+Belgium,2021-01-31,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,345138,318187,27531,0
+Belgium,2021-02-01,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,353180,322233,31545,0
+Belgium,2021-02-02,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,378032,332572,46087,0
+Belgium,2021-02-03,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,409222,342896,66976,0
+Belgium,2021-02-04,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,443890,353007,91556,0
+Belgium,2021-02-05,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,475219,361207,114723,0
+Belgium,2021-02-06,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,481842,362473,120095,0
+Belgium,2021-02-07,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,485295,362817,123205,0
+Belgium,2021-02-08,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,495667,365240,131176,0
+Belgium,2021-02-09,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,523904,373526,151151,0
+Belgium,2021-02-10,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,549869,380175,170496,0
+Belgium,2021-02-11,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,586832,388594,199057,0
+Belgium,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,622122,395477,227503,0
+Belgium,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,630976,396131,235719,0
+Belgium,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,633025,396282,237619,0
+Belgium,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,647070,398492,249473,0
+Belgium,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,662273,402997,260188,0
+Belgium,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,682602,410359,273175,0
+Belgium,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,710832,421106,290665,0
+Belgium,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,742426,439283,304105,0
+Belgium,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,748560,443793,305744,0
+Belgium,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,750838,445764,306052,0
+Belgium,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,763801,455708,309076,0
+Belgium,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,784257,467817,317439,0
+Belgium,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,807805,482869,325954,0
+Belgium,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,840143,505817,335354,0
+Belgium,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,872644,531249,342454,0
+Belgium,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,877222,534962,343334,0
+Belgium,2021-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,878143,535602,343615,0
+Belgium,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,892030,546661,346455,0
+Belgium,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,916100,563747,353458,0
+Belgium,2021-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,946754,588126,359757,0
+Belgium,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,997224,629573,368795,0
+Belgium,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1042778,668218,375721,0
+Belgium,2021-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1051278,676034,376425,0
+Belgium,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1052885,677430,376636,0
+Belgium,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1070570,693040,378727,0
+Belgium,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1099935,714839,386316,0
+Belgium,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1136515,742097,395671,0
+Belgium,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1191316,786619,405968,0
+Belgium,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1236950,818345,419911,0
+Belgium,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1247081,826199,422200,0
+Belgium,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1248699,826487,423533,0
+Belgium,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1279842,852834,428332,0
+Belgium,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1327055,895655,432735,0
+Belgium,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1375139,934790,441689,0
+Belgium,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1450990,993733,458602,0
+Belgium,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1519412,1043018,477746,0
+Belgium,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1542003,1064175,479190,0
+Belgium,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1543114,1064731,479751,0
+Belgium,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1576373,1092476,485268,0
+Belgium,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1624879,1135048,491205,0
+Belgium,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1687206,1186561,502027,0
+Belgium,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1767117,1246107,522398,0
+Belgium,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1837894,1296909,542380,0
+Belgium,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1860716,1315858,546262,0
+Belgium,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1863342,1317484,547264,0
+Belgium,2021-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1887490,1336232,552667,0
+Belgium,2021-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,1920162,1363025,558554,0
+Belgium,2021-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2005660,1436991,570103,0
+Belgium,2021-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2108202,1514423,595262,0
+Belgium,2021-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2191538,1578919,614561,0
+Belgium,2021-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2212736,1598660,616070,0
+Belgium,2021-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2213082,1598864,616226,0
+Belgium,2021-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2228106,1611305,618842,0
+Belgium,2021-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2275544,1649412,628251,0
+Belgium,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2324002,1687926,638334,0
+Belgium,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2451955,1798820,655461,0
+Belgium,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2587983,1918767,671670,0
+Belgium,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2657160,1983770,675918,0
+Belgium,2021-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2661333,1987526,676356,0
+Belgium,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2710620,2027620,685610,0
+Belgium,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2783673,2092147,694220,0
+Belgium,2021-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2885048,2168662,719087,0
+Belgium,2021-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,2997447,2254177,745974,0
+Belgium,2021-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3092053,2331236,763524,0
+Belgium,2021-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3150525,2383797,769436,0
+Belgium,2021-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3156800,2389901,769607,0
+Belgium,2021-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3218443,2446965,774188,0
+Belgium,2021-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3269277,2494376,777614,0
+Belgium,2021-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3361945,2582238,782424,0
+Belgium,2021-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3459112,2673121,788713,0
+Belgium,2021-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3531814,2738385,796154,0
+Belgium,2021-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3578558,2783194,798113,0
+Belgium,2021-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3585113,2789639,798226,0
+Belgium,2021-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3649038,2846337,805461,0
+Belgium,2021-04-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3702709,2885123,820382,0
+Belgium,2021-04-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3798053,2965022,835954,0
+Belgium,2021-04-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3905189,3053361,856171,0
+Belgium,2021-04-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,3988201,3114300,879259,0
+Belgium,2021-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4035993,3154368,887517,0
+Belgium,2021-05-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4039908,3158056,887777,0
+Belgium,2021-05-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4119391,3224873,903113,0
+Belgium,2021-05-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4203408,3292840,922514,0
+Belgium,2021-05-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4359213,3377710,997241,0
+Belgium,2021-05-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4521997,3466774,1075961,0
+Belgium,2021-05-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4678535,3568147,1135760,0
+Belgium,2021-05-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4769523,3649265,1147397,0
+Belgium,2021-05-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4777802,3657337,1147654,0
+Belgium,2021-05-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4862205,3736852,1153980,0
+Belgium,2021-05-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,4931795,3796177,1165545,0
+Belgium,2021-05-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,5025832,3861695,1195420,0
+Belgium,2021-05-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,5145510,3900615,1276569,0
+Belgium,2021-05-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,5291825,3943310,1381347,0
+Belgium,2021-05-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,5380432,3976512,1437097,0
+Belgium,2021-05-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,5386824,3978987,1441058,0
+Belgium,2021-05-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,5496401,4065880,1467359,0
+Belgium,2021-05-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,5630580,4169006,1501565,0
+Belgium,2021-05-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,5772983,4247757,1569486,0
+Belgium,2021-05-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,5920908,4317584,1653028,0
+Belgium,2021-05-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6050269,4388193,1715620,0
+Belgium,2021-05-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6139924,4432886,1761197,0
+Belgium,2021-05-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6149874,4439965,1764131,0
+Belgium,2021-05-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6212528,4466849,1800964,0
+Belgium,2021-05-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6313358,4527056,1848626,0
+Belgium,2021-05-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6436946,4563366,1940996,0
+Belgium,2021-05-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6577876,4605133,2044586,0
+Belgium,2021-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6691188,4644553,2122374,0
+Belgium,2021-05-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6782874,4688020,2173079,0
+Belgium,2021-05-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6794721,4692648,2180454,0
+Belgium,2021-05-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,6915892,4758969,2238638,0
+Belgium,2021-06-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,7020036,4823677,2287074,0
+Belgium,2021-06-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,7189303,4905136,2378045,0
+Belgium,2021-06-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,7377332,4998569,2476013,0
+Belgium,2021-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,7531413,5080977,2550471,0
+Belgium,2021-06-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,7671197,5170612,2602570,0
+Belgium,2021-06-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,7702843,5196733,2608652,0
+Belgium,2021-06-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,7872380,5296793,2686701,0
+Belgium,2021-06-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,8022221,5381306,2768251,0
+Belgium,2021-06-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,8219949,5475080,2878659,0
+Belgium,2021-06-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,8416104,5557032,2997496,0
+Belgium,2021-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,8612931,5646499,3108349,0
+Belgium,2021-06-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,8756834,5725431,3180197,0
+Belgium,2021-06-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,8781189,5741414,3189013,0
+Belgium,2021-06-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,8936048,5820291,3278428,0
+Belgium,2021-06-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,9088043,5914765,3362409,0
+Belgium,2021-06-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,9272726,6036441,3441920,0
+Belgium,2021-06-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,9462840,6174533,3498817,0
+Belgium,2021-06-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,9656711,6313520,3559275,0
+Belgium,2021-06-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,9783320,6410319,3591578,0
+Belgium,2021-06-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,9815963,6441413,3593611,0
+Belgium,2021-06-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,9935382,6524797,3632719,0
+Belgium,2021-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,10044769,6586843,3689243,0
+Belgium,2021-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,10229865,6710461,3754125,0
+Belgium,2021-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,10412488,6837099,3815802,0
+Belgium,2021-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,10578252,6955479,3868411,0
+Belgium,2021-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,10694166,7026642,3918902,0
+Belgium,2021-06-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,10729344,7055415,3926063,0
+Belgium,2021-06-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,10850641,7124632,3982083,0
+Belgium,2021-06-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,10972976,7183149,4051890,0
+Belgium,2021-06-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,11099067,7268781,4099206,0
+Belgium,2021-07-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,11236787,7361214,4148814,0
+Belgium,2021-07-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,11351951,7438176,4190876,0
+Belgium,2021-07-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,11441498,7475993,4243560,0
+Belgium,2021-07-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,11456214,7483703,4250642,0
+Belgium,2021-07-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,11577451,7508604,4350318,0
+Belgium,2021-07-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,11693941,7531680,4446091,0
+Belgium,2021-07-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,11854603,7570943,4570631,0
+Belgium,2021-07-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,12020942,7608399,4703085,0
+Belgium,2021-07-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,12169709,7644534,4817881,0
+Belgium,2021-07-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,12299870,7664441,4929531,0
+Belgium,2021-07-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,12331320,7668904,4956795,0
+Belgium,2021-07-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,12478352,7694893,5080582,0
+Belgium,2021-07-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,12596609,7722933,5175242,0
+Belgium,2021-07-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,12744998,7758367,5291521,0
+Belgium,2021-07-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,12881449,7790488,5399205,0
+Belgium,2021-07-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13020240,7821111,5510646,0
+Belgium,2021-07-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13122929,7840143,5595999,0
+Belgium,2021-07-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13138078,7843650,5608189,0
+Belgium,2021-07-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13267727,7864265,5718865,0
+Belgium,2021-07-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13390480,7890842,5817141,0
+Belgium,2021-07-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13491675,7904987,5905650,0
+Belgium,2021-07-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13677471,7933118,6065236,0
+Belgium,2021-07-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13841505,7958224,6206844,0
+Belgium,2021-07-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13939744,7974588,6289857,0
+Belgium,2021-07-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,13954018,7976296,6302740,0
+Belgium,2021-07-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,14072967,7998078,6401885,0
+Belgium,2021-07-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,14184534,8020888,6492902,0
+Belgium,2021-07-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,14343484,8049586,6624516,0
+Belgium,2021-07-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,14492022,8074220,6749796,0
+Belgium,2021-07-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,14635291,8100558,6868350,0
+Belgium,2021-07-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,14721732,8117039,6939499,0
+Belgium,2021-08-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,14734210,8119339,6949775,0
+Belgium,2021-08-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,14841269,8139236,7037996,0
+Belgium,2021-08-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,14935242,8162562,7110645,0
+Belgium,2021-08-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15053343,8194680,7198205,0
+Belgium,2021-08-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15169531,8220603,7290182,0
+Belgium,2021-08-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15282118,8246712,7378470,0
+Belgium,2021-08-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15341794,8268784,7417465,0
+Belgium,2021-08-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15348658,8270372,7422954,0
+Belgium,2021-08-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15419642,8289601,7476168,0
+Belgium,2021-08-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15500255,8305867,7542426,0
+Belgium,2021-08-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15577812,8322431,7604796,0
+Belgium,2021-08-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15654582,8339660,7665705,0
+Belgium,2021-08-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15716304,8353954,7713980,0
+Belgium,2021-08-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15744106,8360807,7735620,0
+Belgium,2021-08-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15746197,8361125,7737422,0
+Belgium,2021-08-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15786250,8369380,7770379,0
+Belgium,2021-08-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15832660,8381867,7805980,0
+Belgium,2021-08-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15884901,8393445,7847751,0
+Belgium,2021-08-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15934317,8403247,7888343,0
+Belgium,2021-08-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,15977487,8412712,7923030,0
+Belgium,2021-08-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16002383,8419492,7941718,0
+Belgium,2021-08-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16005559,8419738,7944662,0
+Belgium,2021-08-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16046775,8428522,7978052,0
+Belgium,2021-08-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16086857,8436986,8011338,0
+Belgium,2021-08-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16130695,8447037,8046277,0
+Belgium,2021-08-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16179908,8457466,8085959,0
+Belgium,2021-08-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16219745,8464903,8119201,0
+Belgium,2021-08-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16254646,8472197,8147321,0
+Belgium,2021-08-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16256129,8472312,8148702,0
+Belgium,2021-08-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16288761,8478933,8175442,0
+Belgium,2021-08-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16328412,8490308,8205300,0
+Belgium,2021-09-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16350072,8497121,8221110,0
+Belgium,2021-09-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16367430,8503558,8232856,0
+Belgium,2021-09-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16392595,8511649,8250968,0
+Belgium,2021-09-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16423046,8522478,8271602,0
+Belgium,2021-09-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16424530,8523582,8272064,0
+Belgium,2021-09-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16431110,8526453,8276179,0
+Belgium,2021-09-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16441205,8530402,8282928,0
+Belgium,2021-09-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16468025,8541345,8299935,0
+Belgium,2021-09-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16479530,8545527,8307940,184
+Belgium,2021-09-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16498159,8553441,8319496,372
+Belgium,2021-09-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16520955,8562465,8334242,455
+Belgium,2021-09-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16522424,8563141,8335088,464
+Belgium,2021-09-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16531210,8566159,8341282,869
+Belgium,2021-09-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16536430,8568290,8344690,1214
+Belgium,2021-09-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16554278,8575056,8355850,2284
+Belgium,2021-09-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16568755,8580006,8365145,4281
+Belgium,2021-09-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16591036,8587425,8375643,9770
+Belgium,2021-09-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16618959,8595280,8389882,16740
+Belgium,2021-09-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16619480,8595629,8390142,16785
+Belgium,2021-09-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16628285,8598715,8393811,19377
+Belgium,2021-09-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16644590,8603653,8400622,25093
+Belgium,2021-09-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16675328,8610776,8412109,38430
+Belgium,2021-09-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16695689,8615567,8419609,47866
+Belgium,2021-09-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16722305,8622722,8428440,59564
+Belgium,2021-09-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16762790,8631375,8446515,74755
+Belgium,2021-09-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16764097,8632039,8447420,74830
+Belgium,2021-09-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16778836,8634825,8451640,83198
+Belgium,2021-09-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16802195,8639319,8457191,97618
+Belgium,2021-09-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16846438,8646773,8471712,121023
+Belgium,2021-09-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16875903,8651513,8478975,139342
+Belgium,2021-10-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16905423,8658716,8486992,154504
+Belgium,2021-10-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16934895,8665237,8497275,167792
+Belgium,2021-10-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16936070,8665540,8497730,168231
+Belgium,2021-10-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16950346,8668098,8500772,177350
+Belgium,2021-10-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,16970098,8671944,8503428,191076
+Belgium,2021-10-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17011953,8677032,8509860,221951
+Belgium,2021-10-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17058418,8681259,8514300,260491
+Belgium,2021-10-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17098395,8685891,8521757,289163
+Belgium,2021-10-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17126784,8690963,8531264,304113
+Belgium,2021-10-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17128003,8691205,8531466,304909
+Belgium,2021-10-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17148282,8693829,8534677,319737
+Belgium,2021-10-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17183857,8697612,8538987,347792
+Belgium,2021-10-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17227835,8702125,8546602,380447
+Belgium,2021-10-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17268336,8706792,8550812,412797
+Belgium,2021-10-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17302098,8711587,8559169,434452
+Belgium,2021-10-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17323850,8715930,8566705,444995
+Belgium,2021-10-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17325065,8716267,8566863,445731
+Belgium,2021-10-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17337156,8719108,8569435,452939
+Belgium,2021-10-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17360361,8722668,8572498,470137
+Belgium,2021-10-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17393285,8727952,8577685,493310
+Belgium,2021-10-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17428810,8732365,8581602,521245
+Belgium,2021-10-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17459806,8736400,8589606,540923
+Belgium,2021-10-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17478174,8740341,8596647,548886
+Belgium,2021-10-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17478705,8740595,8596770,549053
+Belgium,2021-10-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17495155,8743750,8599913,559743
+Belgium,2021-10-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17525550,8748212,8604492,581750
+Belgium,2021-10-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17562741,8754618,8611087,606665
+Belgium,2021-10-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17600891,8760031,8616232,635134
+Belgium,2021-10-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17631822,8765229,8622600,655592
+Belgium,2021-10-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17648995,8769596,8628546,663062
+Belgium,2021-10-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17649282,8769704,8628623,663171
+Belgium,2021-11-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17650523,8770187,8628956,663760
+Belgium,2021-11-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17670056,8774858,8633026,675158
+Belgium,2021-11-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17701540,8781187,8638057,696244
+Belgium,2021-11-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17732300,8786854,8642355,717804
+Belgium,2021-11-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17760902,8791908,8647667,737218
+Belgium,2021-11-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17779855,8795842,8651853,748694
+Belgium,2021-11-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17781878,8796254,8652265,749968
+Belgium,2021-11-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17802748,8799185,8655173,765547
+Belgium,2021-11-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17834811,8804036,8660278,788293
+Belgium,2021-11-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17882089,8811198,8667118,822735
+Belgium,2021-11-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17888876,8812337,8668079,827550
+Belgium,2021-11-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17920753,8816828,8672717,851009
+Belgium,2021-11-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17942354,8820905,8677045,864828
+Belgium,2021-11-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17942945,8821084,8677167,865123
+Belgium,2021-11-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,17973844,8824090,8680466,890077
+Belgium,2021-11-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18026262,8828937,8685902,932644
+Belgium,2021-11-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18103226,8836667,8692795,995350
+Belgium,2021-11-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18172017,8841692,8697677,1054627
+Belgium,2021-11-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18234245,8846373,8702563,1107769
+Belgium,2021-11-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18265950,8850520,8706996,1131238
+Belgium,2021-11-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18267119,8850683,8707149,1132096
+Belgium,2021-11-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18316365,8853837,8709327,1176345
+Belgium,2021-11-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18404432,8858066,8714108,1255782
+Belgium,2021-11-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18510644,8865444,8720558,1348550
+Belgium,2021-11-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18632541,8869776,8725070,1461905
+Belgium,2021-11-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18731782,8873228,8729292,1553809
+Belgium,2021-11-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18772215,8876287,8734105,1586634
+Belgium,2021-11-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18775583,8876483,8734368,1589548
+Belgium,2021-11-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18855267,8878445,8737062,1664807
+Belgium,2021-11-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,18962636,8881775,8740714,1765385
+Belgium,2021-12-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19087385,8887096,8747518,1878171
+Belgium,2021-12-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19212925,8889685,8750393,1998402
+Belgium,2021-12-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19328128,8892476,8753935,2107440
+Belgium,2021-12-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19382192,8894488,8758176,2155480
+Belgium,2021-12-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19386552,8894644,8758348,2159585
+Belgium,2021-12-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19470595,8896200,8760598,2239944
+Belgium,2021-12-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19585240,8898394,8764685,2348436
+Belgium,2021-12-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19706830,8901762,8771297,2460185
+Belgium,2021-12-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19841917,8904031,8775060,2589357
+Belgium,2021-12-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,19959339,8906523,8778975,2700577
+Belgium,2021-12-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20023114,8908641,8782468,2758871
+Belgium,2021-12-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20028863,8908788,8782872,2764105
+Belgium,2021-12-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20134501,8910654,8785902,2864964
+Belgium,2021-12-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20265104,8912673,8789354,2990270
+Belgium,2021-12-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20394887,8916040,8795563,3110688
+Belgium,2021-12-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20534790,8918524,8799365,3244462
+Belgium,2021-12-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20672624,8921775,8803275,3375335
+Belgium,2021-12-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20747900,8923818,8806534,3445412
+Belgium,2021-12-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20762754,8924097,8806847,3459722
+Belgium,2021-12-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,20907095,8925880,8809482,3599747
+Belgium,2021-12-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21088130,8928800,8813423,3774019
+Belgium,2021-12-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21259714,8932716,8820829,3934392
+Belgium,2021-12-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21396329,8935341,8824923,4064372
+Belgium,2021-12-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21410484,8935773,8825375,4077664
+Belgium,2021-12-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21410586,8935787,8825387,4077741
+Belgium,2021-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21412101,8935805,8825405,4079227
+Belgium,2021-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21486825,8937147,8827164,4150906
+Belgium,2021-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21578481,8938846,8828800,4239313
+Belgium,2021-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21672411,8940800,8830866,4329300
+Belgium,2021-12-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21727414,8942226,8832102,4381697
+Belgium,2021-12-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21732683,8942579,8832331,4386397
+Belgium,2022-01-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21732761,8942588,8832340,4386459
+Belgium,2022-01-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21732903,8942611,8832353,4386567
+Belgium,2022-01-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,21858611,8944439,8834473,4508377
+Belgium,2022-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,22006429,8946586,8836752,4651813
+Belgium,2022-01-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,22171261,8950436,8841541,4808059
+Belgium,2022-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,22333478,8953310,8843849,4965159
+Belgium,2022-01-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,22491991,8956314,8845989,5118620
+Belgium,2022-01-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,22585091,8965781,8848199,5200073
+Belgium,2022-01-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,22614820,8972633,8848433,5222722
+Belgium,2022-01-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,22740457,8974141,8850045,5345292
+Belgium,2022-01-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,22887525,8976783,8852747,5487062
+Belgium,2022-01-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23029542,8992835,8858480,5607369
+Belgium,2022-01-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23166030,8995575,8860403,5739242
+Belgium,2022-01-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23290788,8999301,8862066,5858675
+Belgium,2022-01-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23378381,9030088,8863357,5914210
+Belgium,2022-01-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23400676,9039932,8863473,5926545
+Belgium,2022-01-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23488395,9042872,8864636,6010192
+Belgium,2022-01-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23579032,9046693,8866277,6095414
+Belgium,2022-01-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23672225,9072025,8868511,6161109
+Belgium,2022-01-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23750777,9075742,8869916,6234606
+Belgium,2022-01-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23823055,9080955,8870955,6300688
+Belgium,2022-01-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23885780,9111843,8871971,6331531
+Belgium,2022-01-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23896021,9118224,8872029,6335336
+Belgium,2022-01-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23948995,9120840,8873194,6384563
+Belgium,2022-01-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,23993538,9123772,8874500,6424911
+Belgium,2022-01-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24055209,9141649,8877760,6465502
+Belgium,2022-01-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24098312,9144495,8879178,6504365
+Belgium,2022-01-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24144379,9147140,8880863,6546146
+Belgium,2022-01-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24190515,9164597,8890051,6565647
+Belgium,2022-01-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24196794,9166989,8891979,6567606
+Belgium,2022-01-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24221193,9168667,8893118,6589208
+Belgium,2022-02-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24252655,9170879,8895398,6616193
+Belgium,2022-02-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24304719,9180241,8906995,6647305
+Belgium,2022-02-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24334727,9182826,8909111,6672651
+Belgium,2022-02-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24366862,9184659,8911957,6700140
+Belgium,2022-02-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24411974,9192357,8936171,6713342
+Belgium,2022-02-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24421518,9193700,8943535,6714182
+Belgium,2022-02-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24435332,9194502,8945815,6724954
+Belgium,2022-02-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24457031,9195664,8948850,6742467
+Belgium,2022-02-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24519848,9201809,8969311,6778690
+Belgium,2022-02-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24558596,9203089,8972540,6812951
+Belgium,2022-02-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24595670,9204564,8977187,6843918
+Belgium,2022-02-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24654737,9210150,9004793,6869794
+Belgium,2022-02-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24665690,9210916,9011661,6873114
+Belgium,2022-02-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24677399,9211449,9013581,6882380
+Belgium,2022-02-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24698415,9212125,9016175,6900141
+Belgium,2022-02-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24772096,9217562,9036010,6948555
+Belgium,2022-02-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24799358,9218530,9038556,6972312
+Belgium,2022-02-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24820716,9219298,9040547,6990929
+Belgium,2022-02-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24864220,9223568,9060867,7009844
+Belgium,2022-02-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24868298,9224108,9063161,7011088
+Belgium,2022-02-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24883825,9224664,9064798,7024443
+Belgium,2022-02-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24914490,9225478,9066684,7052422
+Belgium,2022-02-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,24972273,9228204,9079360,7094815
+Belgium,2022-02-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25008504,9229157,9082674,7126798
+Belgium,2022-02-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25036767,9229902,9084642,7152375
+Belgium,2022-02-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25064160,9231613,9093575,7169125
+Belgium,2022-02-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25065837,9231727,9094523,7169740
+Belgium,2022-02-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25071851,9232056,9095268,7174700
+Belgium,2022-03-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25080543,9232467,9095938,7182322
+Belgium,2022-03-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25102861,9234166,9100972,7197936
+Belgium,2022-03-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25112618,9234847,9102261,7205741
+Belgium,2022-03-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25120606,9235370,9103352,7212127
+Belgium,2022-03-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25132159,9236180,9107640,7218583
+Belgium,2022-03-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25132350,9236198,9107722,7218674
+Belgium,2022-03-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25136906,9236360,9108011,7222783
+Belgium,2022-03-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25142716,9236618,9108827,7227521
+Belgium,2022-03-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25174515,9238567,9118655,7247548
+Belgium,2022-03-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25179840,9238938,9119431,7251727
+Belgium,2022-03-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25183921,9239092,9119975,7255118
+Belgium,2022-03-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25193534,9239579,9124456,7259763
+Belgium,2022-03-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25195077,9239633,9125473,7260235
+Belgium,2022-03-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25196784,9239722,9125956,7261372
+Belgium,2022-03-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25201412,9239838,9126539,7265309
+Belgium,2022-03-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25219212,9240471,9130777,7278263
+Belgium,2022-03-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25225302,9240707,9131547,7283360
+Belgium,2022-03-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25230215,9240878,9132032,7287628
+Belgium,2022-03-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25237064,9241248,9133911,7292228
+Belgium,2022-03-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25237160,9241264,9133932,7292289
+Belgium,2022-03-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25239382,9241372,9134569,7293771
+Belgium,2022-03-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25243553,9241574,9135357,7296957
+Belgium,2022-03-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25257383,9242066,9137475,7308187
+Belgium,2022-03-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25261215,9242234,9137860,7311467
+Belgium,2022-03-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25265019,9242381,9138261,7314724
+Belgium,2022-03-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25271126,9242655,9139321,7319498
+Belgium,2022-03-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25271274,9242663,9139376,7319583
+Belgium,2022-03-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25273217,9242759,9139736,7321073
+Belgium,2022-03-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25276352,9242881,9139962,7323862
+Belgium,2022-03-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25293005,9243543,9143122,7336694
+Belgium,2022-03-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25296552,9243727,9143680,7339502
+Belgium,2022-04-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25298545,9243834,9143953,7341115
+Belgium,2022-04-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25300393,9244034,9144243,7342473
+Belgium,2022-04-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25300412,9244038,9144247,7342486
+Belgium,2022-04-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25300933,9244094,9144346,7342853
+Belgium,2022-04-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25302158,9244155,9144458,7343906
+Belgium,2022-04-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25306072,9244348,9144879,7347208
+Belgium,2022-04-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25307873,9244523,9145058,7348656
+Belgium,2022-04-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25309961,9244663,9145200,7350463
+Belgium,2022-04-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25312309,9244898,9145539,7352237
+Belgium,2022-04-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25312321,9244898,9145544,7352244
+Belgium,2022-04-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25313208,9244971,9145666,7352941
+Belgium,2022-04-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25314109,9245054,9145761,7353666
+Belgium,2022-04-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25316995,9245237,9146118,7356018
+Belgium,2022-04-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25318546,9245356,9146274,7357296
+Belgium,2022-04-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25320502,9245506,9146432,7358958
+Belgium,2022-04-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25321941,9245696,9146743,7359897
+Belgium,2022-04-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25321953,9245696,9146744,7359908
+Belgium,2022-04-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25321974,9245697,9146749,7359923
+Belgium,2022-04-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25323758,9245843,9147035,7361277
+Belgium,2022-04-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25327541,9246126,9147636,7364189
+Belgium,2022-04-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25329446,9246253,9147861,7365747
+Belgium,2022-04-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25331848,9246473,9148079,7367720
+Belgium,2022-04-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25334395,9246779,9148529,7369512
+Belgium,2022-04-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25334416,9246780,9148531,7369530
+Belgium,2022-04-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25335085,9246847,9148615,7370049
+Belgium,2022-04-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25336316,9246942,9148762,7371044
+Belgium,2022-04-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25340514,9247291,9149227,7374429
+Belgium,2022-04-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25341959,9247429,9149420,7375545
+Belgium,2022-04-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25343629,9247574,9149600,7376893
+Belgium,2022-04-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25345345,9247807,9149939,7378037
+Belgium,2022-05-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25345357,9247808,9149941,7378047
+Belgium,2022-05-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25345820,9247857,9149987,7378421
+Belgium,2022-05-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25346801,9247951,9150087,7379210
+Belgium,2022-05-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25348832,9248265,9150322,7380692
+Belgium,2022-05-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25349764,9248350,9150418,7381446
+Belgium,2022-05-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25351675,9248555,9150604,7382969
+Belgium,2022-05-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25352997,9248802,9150844,7383808
+Belgium,2022-05-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25353014,9248802,9150851,7383818
+Belgium,2022-05-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25353607,9248867,9150889,7384309
+Belgium,2022-05-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25354756,9249009,9151015,7385195
+Belgium,2022-05-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25357383,9249408,9151332,7387109
+Belgium,2022-05-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25358376,9249498,9151430,7387917
+Belgium,2022-05-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25359890,9249693,9151592,7389077
+Belgium,2022-05-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25361323,9249906,9151847,7390044
+Belgium,2022-05-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25361337,9249907,9151849,7390055
+Belgium,2022-05-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25361838,9249965,9151881,7390470
+Belgium,2022-05-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25362970,9250057,9151975,7391418
+Belgium,2022-05-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25365884,9250392,9152282,7393690
+Belgium,2022-05-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25369191,9250526,9152405,7396740
+Belgium,2022-05-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25371614,9250728,9152619,7398750
+Belgium,2022-05-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25373433,9250981,9152887,7400049
+Belgium,2022-05-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25373462,9250983,9152891,7400072
+Belgium,2022-05-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25374982,9251085,9152960,7401425
+Belgium,2022-05-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25383563,9251230,9153095,7409726
+Belgium,2022-05-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25393341,9251461,9153348,7419025
+Belgium,2022-05-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25393679,9251463,9153351,7419358
+Belgium,2022-05-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25396116,9251550,9153464,7421597
+Belgium,2022-05-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25397711,9251749,9153720,7422738
+Belgium,2022-05-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25397718,9251756,9153720,7422738
+Belgium,2022-05-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25406735,9251837,9153823,7431571
+Belgium,2022-05-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25426965,9251954,9153958,7451549
+Belgium,2022-06-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25448683,9252415,9154408,7472358
+Belgium,2022-06-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25466152,9252529,9154514,7489611
+Belgium,2022-06-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25477149,9252693,9154722,7500237
+Belgium,2022-06-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25480588,9252867,9154912,7503314
+Belgium,2022-06-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25481076,9252869,9154914,7503798
+Belgium,2022-06-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25482467,9252876,9154917,7505179
+Belgium,2022-06-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25503391,9252965,9155027,7525904
+Belgium,2022-06-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25527228,9253156,9155270,7549309
+Belgium,2022-06-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25546260,9253233,9155392,7568143
+Belgium,2022-06-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25560414,9253368,9155567,7581990
+Belgium,2022-06-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25566154,9253538,9155822,7587305
+Belgium,2022-06-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25566962,9253542,9155825,7588106
+Belgium,2022-06-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25574407,9253613,9155928,7595377
+Belgium,2022-06-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25586631,9253696,9156044,7607402
+Belgium,2022-06-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25606062,9253910,9156407,7626257
+Belgium,2022-06-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25618946,9253965,9156494,7639001
+Belgium,2022-06-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25628126,9254071,9156620,7647953
+Belgium,2022-06-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25633990,9254180,9156854,7653475
+Belgium,2022-06-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25635378,9254181,9156862,7654855
+Belgium,2022-06-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25640461,9254235,9156907,7659839
+Belgium,2022-06-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25648500,9254286,9157008,7667726
+Belgium,2022-06-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25662741,9254562,9157370,7681329
+Belgium,2022-06-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25672844,9254639,9157492,7691233
+Belgium,2022-06-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25679264,9254749,9157714,7697323
+Belgium,2022-06-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25681936,9254866,9157938,7699654
+Belgium,2022-06-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25681952,9254868,9157938,7699668
+Belgium,2022-06-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25684414,9254895,9157985,7702056
+Belgium,2022-06-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25687859,9254982,9158072,7705330
+Belgium,2022-06-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25694423,9255165,9158361,7711422
+Belgium,2022-06-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25698585,9255234,9158456,7715420
+Belgium,2022-07-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25702172,9255351,9158566,7718780
+Belgium,2022-07-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25704326,9255456,9158709,7720687
+Belgium,2022-07-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25704338,9255456,9158710,7720698
+Belgium,2022-07-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25706015,9255522,9158765,7722256
+Belgium,2022-07-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25708371,9255611,9158843,7724447
+Belgium,2022-07-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25713247,9255785,9159017,7728977
+Belgium,2022-07-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25714807,9255847,9159055,7730437
+Belgium,2022-07-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25717590,9255949,9159140,7733033
+Belgium,2022-07-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25720200,9256097,9159276,7735363
+Belgium,2022-07-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25720229,9256097,9159277,7735391
+Belgium,2022-07-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25721015,9256122,9159306,7736123
+Belgium,2022-07-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25722229,9256145,9159347,7737273
+Belgium,2022-07-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25727383,9256398,9159545,7741978
+Belgium,2022-07-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25730173,9256478,9159618,7744619
+Belgium,2022-07-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25733854,9256625,9159746,7748027
+Belgium,2022-07-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25735615,9256722,9159859,7749580
+Belgium,2022-07-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25735635,9256724,9159861,7749596
+Belgium,2022-07-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25736607,9256768,9159917,7750469
+Belgium,2022-07-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25738339,9256826,9159966,7752094
+Belgium,2022-07-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25740262,9256921,9160083,7753808
+Belgium,2022-07-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25740304,9256923,9160086,7753845
+Belgium,2022-07-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25742008,9256975,9160146,7755439
+Belgium,2022-07-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25743212,9257023,9160221,7756522
+Belgium,2022-07-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25743221,9257023,9160222,7756530
+Belgium,2022-07-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25744407,9257077,9160292,7757597
+Belgium,2022-07-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25746148,9257150,9160385,7759175
+Belgium,2022-07-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25748585,9257328,9160537,7761282
+Belgium,2022-07-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25750762,9257419,9160589,7763317
+Belgium,2022-07-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25752752,9257519,9160690,7765109
+Belgium,2022-07-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25753653,9257580,9160790,7765849
+Belgium,2022-07-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25753659,9257582,9160790,7765853
+Belgium,2022-08-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25754279,9257606,9160828,7766413
+Belgium,2022-08-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25755074,9257627,9160867,7767150
+Belgium,2022-08-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25759049,9257854,9161112,7770654
+Belgium,2022-08-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25761031,9257884,9161161,7772557
+Belgium,2022-08-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25763446,9258006,9161260,7774751
+Belgium,2022-08-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25764083,9258053,9161335,7775266
+Belgium,2022-08-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25764094,9258053,9161336,7775276
+Belgium,2022-08-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25765471,9258079,9161391,7776575
+Belgium,2022-08-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25767225,9258121,9161448,7778230
+Belgium,2022-08-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25769881,9258236,9161547,7780673
+Belgium,2022-08-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25772616,9258298,9161573,7783320
+Belgium,2022-08-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25774394,9258351,9161642,7784979
+Belgium,2022-08-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25774848,9258387,9161693,7785346
+Belgium,2022-08-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25774850,9258387,9161693,7785348
+Belgium,2022-08-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25774856,9258387,9161695,7785352
+Belgium,2022-08-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25777191,9258479,9161773,7787518
+Belgium,2022-08-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25780204,9258598,9161902,7790285
+Belgium,2022-08-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25783479,9258685,9161979,7793397
+Belgium,2022-08-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25786815,9258789,9162059,7796549
+Belgium,2022-08-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25787466,9258835,9162118,7797095
+Belgium,2022-08-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25787497,9258837,9162120,7797124
+Belgium,2022-08-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25788801,9258864,9162164,7798366
+Belgium,2022-08-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25791798,9258889,9162187,7801316
+Belgium,2022-08-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25796565,9259062,9162394,7805707
+Belgium,2022-08-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25800594,9259126,9162448,7809619
+Belgium,2022-08-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25803539,9259175,9162560,7812403
+Belgium,2022-08-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25804311,9259298,9162634,7812980
+Belgium,2022-08-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25804315,9259298,9162634,7812984
+Belgium,2022-08-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25806465,9259315,9162652,7815099
+Belgium,2022-08-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25809580,9259356,9162684,7818142
+Belgium,2022-08-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25813017,9259462,9162805,7821353
+Belgium,2022-09-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25815659,9259499,9162830,7823934
+Belgium,2022-09-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25818234,9259558,9162898,7826384
+Belgium,2022-09-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25818686,9259585,9162955,7826752
+Belgium,2022-09-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25818692,9259585,9162955,7826758
+Belgium,2022-09-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25821342,9259602,9162978,7829370
+Belgium,2022-09-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25825186,9259635,9163005,7833154
+Belgium,2022-09-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25828035,9259732,9163080,7835831
+Belgium,2022-09-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25832767,9259753,9163095,7840527
+Belgium,2022-09-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25839979,9259804,9163127,7847657
+Belgium,2022-09-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25843696,9259824,9163160,7851323
+Belgium,2022-09-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25843723,9259824,9163160,7851350
+Belgium,2022-09-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,25934470,9259891,9163195,7941997
+Belgium,2022-09-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26040477,9259924,9163230,8047936
+Belgium,2022-09-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26147345,9260139,9163383,8154437
+Belgium,2022-09-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26267752,9260184,9163423,8274759
+Belgium,2022-09-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26362129,9260224,9163456,8369063
+Belgium,2022-09-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26407349,9260277,9163530,8414157
+Belgium,2022-09-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26412155,9260277,9163530,8418963
+Belgium,2022-09-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26519738,9260394,9163589,8526382
+Belgium,2022-09-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26647145,9260459,9163638,8653675
+Belgium,2022-09-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26778560,9260664,9163784,8784740
+Belgium,2022-09-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,26906137,9260735,9163842,8912189
+Belgium,2022-09-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27004216,9260777,9163872,9010196
+Belgium,2022-09-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27051954,9260823,9163905,9057855
+Belgium,2022-09-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27057562,9260825,9163906,9063460
+Belgium,2022-09-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27171643,9260864,9163937,9177476
+Belgium,2022-09-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27300894,9260904,9163962,9306662
+Belgium,2022-09-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27436487,9261043,9164070,9442008
+Belgium,2022-09-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27554501,9261095,9164103,9559937
+Belgium,2022-09-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27645448,9261161,9164141,9650780
+Belgium,2022-10-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27683973,9261212,9164190,9689206
+Belgium,2022-10-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27686902,9261214,9164190,9692133
+Belgium,2022-10-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27768526,9261274,9164238,9773650
+Belgium,2022-10-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27883159,9261332,9164288,9888177
+Belgium,2022-10-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,27998502,9261628,9164499,10003013
+Belgium,2022-10-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28101208,9261691,9164535,10105621
+Belgium,2022-10-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28186283,9261757,9164590,10190577
+Belgium,2022-10-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28227755,9261823,9164645,10231928
+Belgium,2022-10-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28230104,9261823,9164646,10234276
+Belgium,2022-10-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28313469,9261840,9164665,10317606
+Belgium,2022-10-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28402553,9261873,9164696,10406626
+Belgium,2022-10-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28502795,9262069,9164862,10506508
+Belgium,2022-10-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28590612,9262119,9164911,10594226
+Belgium,2022-10-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28659900,9262155,9164935,10663455
+Belgium,2022-10-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28698116,9262219,9164978,10701565
+Belgium,2022-10-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28699906,9262219,9164980,10703353
+Belgium,2022-10-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28760945,9262248,9165009,10764334
+Belgium,2022-10-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28826470,9262292,9165039,10829785
+Belgium,2022-10-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28900725,9262508,9165169,10903695
+Belgium,2022-10-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,28962837,9262549,9165208,10965728
+Belgium,2022-10-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29016857,9262586,9165238,11019683
+Belgium,2022-10-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29046543,9262645,9165268,11049280
+Belgium,2022-10-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29047853,9262654,9165268,11050581
+Belgium,2022-10-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29098680,9262714,9165327,11101289
+Belgium,2022-10-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29146886,9262772,9165357,11149407
+Belgium,2022-10-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29211599,9263174,9165615,11213461
+Belgium,2022-10-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29258706,9263246,9165672,11260441
+Belgium,2022-10-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29298037,9263303,9165721,11299668
+Belgium,2022-10-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29317336,9263351,9165771,11318869
+Belgium,2022-10-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29318265,9263352,9165771,11319797
+Belgium,2022-10-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29328690,9263374,9165781,11330190
+Belgium,2022-11-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29329096,9263379,9165782,11330591
+Belgium,2022-11-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29344870,9263421,9165830,11346275
+Belgium,2022-11-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29364627,9263464,9165846,11365973
+Belgium,2022-11-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29376995,9263490,9165876,11378286
+Belgium,2022-11-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29386562,9263532,9165927,11387761
+Belgium,2022-11-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29386609,9263532,9165927,11387808
+Belgium,2022-11-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29398194,9263545,9165946,11399361
+Belgium,2022-11-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29411406,9263587,9165982,11412496
+Belgium,2022-11-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29427276,9263735,9166136,11428065
+Belgium,2022-11-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29439887,9263784,9166185,11440578
+Belgium,2022-11-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29440316,9263790,9166186,11441000
+Belgium,2022-11-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29444067,9263832,9166236,11444660
+Belgium,2022-11-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29444080,9263833,9166237,11444671
+Belgium,2022-11-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29450261,9263866,9166256,11450800
+Belgium,2022-11-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29457472,9263895,9166285,11457956
+Belgium,2022-11-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29471319,9264039,9166610,11471334
+Belgium,2022-11-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29476791,9264061,9166627,11476767
+Belgium,2022-11-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29483209,9264098,9166662,11483113
+Belgium,2022-11-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29489651,9264139,9166738,11489438
+Belgium,2022-11-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29489678,9264139,9166738,11489465
+Belgium,2022-11-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29493089,9264167,9166756,11492832
+Belgium,2022-11-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29497626,9264178,9166773,11497342
+Belgium,2022-11-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29501651,9264254,9166874,11501190
+Belgium,2022-11-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29507441,9264275,9166916,11506920
+Belgium,2022-11-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29512856,9264302,9166948,11512276
+Belgium,2022-11-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29514991,9264319,9166979,11514363
+Belgium,2022-11-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29515008,9264319,9166979,11514380
+Belgium,2022-11-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29517837,9264328,9166990,11517190
+Belgium,2022-11-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29522996,9264350,9167016,11522301
+Belgium,2022-11-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29529342,9264433,9167141,11528439
+Belgium,2022-12-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29533489,9264464,9167175,11532521
+Belgium,2022-12-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29536439,9264471,9167183,11535456
+Belgium,2022-12-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29538005,9264485,9167219,11536972
+Belgium,2022-12-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29538029,9264485,9167219,11536996
+Belgium,2022-12-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29540046,9264495,9167240,11538984
+Belgium,2022-12-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29543733,9264513,9167258,11542635
+Belgium,2022-12-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29549002,9264641,9167437,11547598
+Belgium,2022-12-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29552261,9264662,9167460,11550813
+Belgium,2022-12-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29556010,9264675,9167488,11554522
+Belgium,2022-12-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29557802,9264698,9167515,11556264
+Belgium,2022-12-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29557822,9264698,9167515,11556284
+Belgium,2022-12-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29560431,9264708,9167541,11558857
+Belgium,2022-12-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29563034,9264729,9167559,11561422
+Belgium,2022-12-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29566512,9264759,9167622,11564808
+Belgium,2022-12-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29570249,9264769,9167626,11568531
+Belgium,2022-12-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29573291,9264787,9167639,11571542
+Belgium,2022-12-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29574430,9264796,9167662,11572650
+Belgium,2022-12-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29574444,9264796,9167662,11572664
+Belgium,2022-12-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29576945,9264828,9167698,11575097
+Belgium,2022-12-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29580231,9264892,9167746,11578272
+Belgium,2022-12-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29583767,9265021,9167866,11581559
+Belgium,2022-12-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29585890,9265066,9167900,11583603
+Belgium,2022-12-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29587123,9265122,9167928,11584757
+Belgium,2022-12-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29587195,9265122,9167929,11584828
+Belgium,2022-12-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29587198,9265122,9167929,11584831
+Belgium,2022-12-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29587784,9265133,9167937,11585398
+Belgium,2022-12-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29588947,9265169,9167946,11586516
+Belgium,2022-12-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29590212,9265198,9167985,11587713
+Belgium,2022-12-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29591432,9265231,9168009,11588876
+Belgium,2022-12-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29592340,9265270,9168024,11589730
+Belgium,2022-12-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29592394,9265271,9168025,11589782
+Belgium,2023-01-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29592400,9265273,9168027,11589786
+Belgium,2023-01-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29593048,9265283,9168039,11590412
+Belgium,2023-01-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29594132,9265320,9168065,11591433
+Belgium,2023-01-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29595186,9265341,9168081,11592451
+Belgium,2023-01-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29596408,9265374,9168088,11593633
+Belgium,2023-01-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29598011,9265422,9168111,11595166
+Belgium,2023-01-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29598330,9265428,9168113,11595477
+Belgium,2023-01-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29598339,9265430,9168113,11595484
+Belgium,2023-01-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29600202,9265452,9168134,11597304
+Belgium,2023-01-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29601745,9265483,9168140,11598810
+Belgium,2023-01-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29603139,9265534,9168181,11600112
+Belgium,2023-01-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29605009,9265589,9168193,11601916
+Belgium,2023-01-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29607220,9265637,9168216,11604056
+Belgium,2023-01-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29607558,9265649,9168219,11604380
+Belgium,2023-01-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29607561,9265650,9168219,11604382
+Belgium,2023-01-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29608950,9265669,9168228,11605744
+Belgium,2023-01-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29610449,9265701,9168240,11607200
+Belgium,2023-01-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29611497,9265726,9168262,11608201
+Belgium,2023-01-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29612784,9265755,9168287,11609435
+Belgium,2023-01-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29614106,9265792,9168298,11610709
+Belgium,2023-01-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29614259,9265799,9168303,11610850
+Belgium,2023-01-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29614272,9265799,9168303,11610863
+Belgium,2023-01-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29614933,9265814,9168313,11611499
+Belgium,2023-01-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29615860,9265866,9168324,11612363
+Belgium,2023-01-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29616738,9265898,9168348,11613186
+Belgium,2023-01-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29617937,9265926,9168372,11614334
+Belgium,2023-01-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29619095,9265966,9168392,11615433
+Belgium,2023-01-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29619250,9265968,9168395,11615583
+Belgium,2023-01-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29619260,9265968,9168395,11615593
+Belgium,2023-01-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29619759,9265985,9168409,11616061
+Belgium,2023-01-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29620491,9266012,9168421,11616754
+Belgium,2023-02-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29621019,9266039,9168462,11617214
+Belgium,2023-02-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29621711,9266065,9168487,11617855
+Belgium,2023-02-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29622487,9266105,9168521,11618557
+Belgium,2023-02-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29622641,9266110,9168528,11618700
+Belgium,2023-02-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29622649,9266110,9168528,11618708
+Belgium,2023-02-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29623039,9266123,9168535,11619078
+Belgium,2023-02-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29623567,9266149,9168550,11619565
+Belgium,2023-02-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29624019,9266169,9168571,11619976
+Belgium,2023-02-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29624455,9266191,9168586,11620375
+Belgium,2023-02-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29624935,9266217,9168606,11620809
+Belgium,2023-02-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29625046,9266221,9168612,11620910
+Belgium,2023-02-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29625318,9266229,9168615,11621172
+Belgium,2023-02-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29625662,9266240,9168645,11621475
+Belgium,2023-02-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29625951,9266259,9168654,11621737
+Belgium,2023-02-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29626530,9266286,9168670,11622273
+Belgium,2023-02-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29626945,9266312,9168697,11622635
+Belgium,2023-02-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29627033,9266317,9168699,11622716
+Belgium,2023-02-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29627226,9266318,9168707,11622900
+Belgium,2023-02-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29627452,9266334,9168727,11623090
+Belgium,2023-02-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29627695,9266349,9168739,11623306
+Belgium,2023-02-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29628059,9266359,9168757,11623643
+Belgium,2023-02-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29628427,9266383,9168778,11623966
+Belgium,2023-02-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29628507,9266385,9168782,11624040
+Belgium,2023-02-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29628706,9266396,9168795,11624215
+Belgium,2023-02-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29628924,9266410,9168810,11624405
+Belgium,2023-03-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29629174,9266425,9168836,11624614
+Belgium,2023-03-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29629481,9266447,9168847,11624888
+Belgium,2023-03-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29629794,9266460,9168865,11625170
+Belgium,2023-03-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29629851,9266461,9168866,11625225
+Belgium,2023-03-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29630020,9266471,9168875,11625375
+Belgium,2023-03-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29630215,9266477,9168883,11625556
+Belgium,2023-03-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29630436,9266490,9168903,11625744
+Belgium,2023-03-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29630797,9266506,9168919,11626073
+Belgium,2023-03-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29631081,9266525,9168939,11626318
+Belgium,2023-03-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29631135,9266526,9168944,11626366
+Belgium,2023-03-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29631137,9266526,9168944,11626368
+Belgium,2023-03-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29631299,9266546,9168951,11626503
+Belgium,2023-03-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29631482,9266559,9168961,11626663
+Belgium,2023-03-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29631658,9266573,9168975,11626811
+Belgium,2023-03-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29631885,9266590,9168985,11627013
+Belgium,2023-03-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29632178,9266611,9168996,11627274
+Belgium,2023-03-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29632260,9266615,9169001,11627349
+Belgium,2023-03-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29632261,9266615,9169001,11627350
+Belgium,2023-03-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29632452,9266626,9169015,11627516
+Belgium,2023-03-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29632619,9266643,9169024,11627657
+Belgium,2023-03-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29632786,9266657,9169036,11627798
+Belgium,2023-03-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29632948,9266675,9169052,11627926
+Belgium,2023-03-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29633136,9266686,9169072,11628083
+Belgium,2023-03-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29633194,9266691,9169074,11628134
+Belgium,2023-03-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29633202,9266691,9169074,11628142
+Belgium,2023-03-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29633327,9266705,9169084,11628243
+Belgium,2023-03-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29633466,9266718,9169089,11628364
+Belgium,2023-03-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29633587,9266724,9169093,11628475
+Belgium,2023-03-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29633761,9266735,9169104,11628627
+Belgium,2023-03-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29633976,9266752,9169113,11628816
+Belgium,2023-04-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634011,9266752,9169117,11628847
+Belgium,2023-04-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634122,9266755,9169131,11628941
+Belgium,2023-04-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634234,9266764,9169139,11629036
+Belgium,2023-04-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634309,9266769,9169151,11629094
+Belgium,2023-04-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634422,9266781,9169157,11629189
+Belgium,2023-04-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634568,9266806,9169167,11629300
+Belgium,2023-04-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634600,9266810,9169170,11629325
+Belgium,2023-04-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634731,9266822,9169181,11629433
+Belgium,2023-04-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634814,9266830,9169196,11629493
+Belgium,2023-04-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29634891,9266843,9169206,11629548
+Belgium,2023-04-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635008,9266851,9169215,11629648
+Belgium,2023-04-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635027,9266853,9169216,11629664
+Belgium,2023-04-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635099,9266859,9169219,11629728
+Belgium,2023-04-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635190,9266868,9169231,11629798
+Belgium,2023-04-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635282,9266872,9169237,11629880
+Belgium,2023-04-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635414,9266885,9169241,11629995
+Belgium,2023-04-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635491,9266888,9169248,11630062
+Belgium,2023-04-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635521,9266891,9169249,11630088
+Belgium,2023-04-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635595,9266908,9169254,11630140
+Belgium,2023-04-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635690,9266919,9169261,11630217
+Belgium,2023-04-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635783,9266924,9169263,11630303
+Belgium,2023-04-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635869,9266932,9169277,11630367
+Belgium,2023-04-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29635989,9266948,9169291,11630457
+Belgium,2023-04-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636006,9266949,9169292,11630472
+Belgium,2023-05-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636073,9266960,9169301,11630519
+Belgium,2023-05-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636164,9266970,9169302,11630599
+Belgium,2023-05-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636244,9266982,9169310,11630659
+Belgium,2023-05-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636305,9266988,9169318,11630706
+Belgium,2023-05-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636331,9266988,9169319,11630731
+Belgium,2023-05-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636389,9266993,9169330,11630773
+Belgium,2023-05-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636461,9267000,9169342,11630826
+Belgium,2023-05-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636522,9267008,9169344,11630877
+Belgium,2023-05-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636580,9267011,9169348,11630928
+Belgium,2023-05-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636651,9267022,9169353,11630983
+Belgium,2023-05-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636668,9267022,9169355,11630998
+Belgium,2023-05-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636731,9267042,9169363,11631033
+Belgium,2023-05-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636805,9267051,9169369,11631092
+Belgium,2023-05-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636865,9267055,9169372,11631145
+Belgium,2023-05-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636868,9267055,9169374,11631146
+Belgium,2023-05-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636925,9267063,9169381,11631188
+Belgium,2023-05-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636940,9267068,9169381,11631198
+Belgium,2023-05-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29636968,9267070,9169387,11631218
+Belgium,2023-05-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637015,9267071,9169390,11631261
+Belgium,2023-05-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637052,9267074,9169394,11631291
+Belgium,2023-05-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637130,9267082,9169402,11631353
+Belgium,2023-05-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637233,9267093,9169412,11631435
+Belgium,2023-05-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637241,9267095,9169412,11631441
+Belgium,2023-05-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637288,9267097,9169430,11631468
+Belgium,2023-05-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637339,9267100,9169435,11631511
+Belgium,2023-06-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637386,9267103,9169445,11631545
+Belgium,2023-06-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637446,9267111,9169454,11631588
+Belgium,2023-06-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637450,9267112,9169454,11631591
+Belgium,2023-06-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637483,9267115,9169456,11631619
+Belgium,2023-06-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637550,9267121,9169463,11631673
+Belgium,2023-06-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637617,9267126,9169470,11631728
+Belgium,2023-06-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637650,9267128,9169472,11631757
+Belgium,2023-06-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637705,9267134,9169481,11631797
+Belgium,2023-06-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637720,9267137,9169481,11631809
+Belgium,2023-06-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637741,9267138,9169481,11631829
+Belgium,2023-06-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637773,9267141,9169482,11631857
+Belgium,2023-06-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637811,9267143,9169485,11631891
+Belgium,2023-06-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637835,9267147,9169488,11631908
+Belgium,2023-06-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637879,9267149,9169498,11631940
+Belgium,2023-06-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637887,9267149,9169498,11631948
+Belgium,2023-06-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637925,9267149,9169503,11631981
+Belgium,2023-06-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637977,9267156,9169507,11632022
+Belgium,2023-06-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29637994,9267157,9169509,11632036
+Belgium,2023-06-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638014,9267158,9169512,11632052
+Belgium,2023-06-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638049,9267159,9169516,11632082
+Belgium,2023-06-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638058,9267160,9169516,11632090
+Belgium,2023-06-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638059,9267160,9169516,11632091
+Belgium,2023-06-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638073,9267162,9169516,11632103
+Belgium,2023-06-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638102,9267164,9169520,11632126
+Belgium,2023-06-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638132,9267171,9169524,11632145
+Belgium,2023-06-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638165,9267175,9169528,11632170
+Belgium,2023-06-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638196,9267178,9169530,11632196
+Belgium,2023-07-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638210,9267178,9169532,11632208
+Belgium,2023-07-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638229,9267181,9169534,11632222
+Belgium,2023-07-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638271,9267189,9169539,11632251
+Belgium,2023-07-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638291,9267191,9169540,11632268
+Belgium,2023-07-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638310,9267193,9169546,11632279
+Belgium,2023-07-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638325,9267196,9169547,11632290
+Belgium,2023-07-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638327,9267196,9169547,11632292
+Belgium,2023-07-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638339,9267198,9169548,11632301
+Belgium,2023-07-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638359,9267198,9169552,11632317
+Belgium,2023-07-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638372,9267199,9169552,11632329
+Belgium,2023-07-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638390,9267200,9169559,11632339
+Belgium,2023-07-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638412,9267202,9169564,11632354
+Belgium,2023-07-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638415,9267202,9169565,11632356
+Belgium,2023-07-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638426,9267204,9169566,11632364
+Belgium,2023-07-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638437,9267207,9169566,11632372
+Belgium,2023-07-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638447,9267210,9169566,11632379
+Belgium,2023-07-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638462,9267213,9169567,11632390
+Belgium,2023-07-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638464,9267213,9169567,11632392
+Belgium,2023-07-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638473,9267214,9169572,11632395
+Belgium,2023-07-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638484,9267214,9169574,11632404
+Belgium,2023-07-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638489,9267214,9169575,11632408
+Belgium,2023-07-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638503,9267216,9169575,11632420
+Belgium,2023-07-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638520,9267218,9169578,11632432
+Belgium,2023-07-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638521,9267218,9169578,11632433
+Belgium,2023-07-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638528,9267218,9169578,11632440
+Belgium,2023-08-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638540,9267221,9169581,11632446
+Belgium,2023-08-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638550,9267222,9169582,11632454
+Belgium,2023-08-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638561,9267224,9169582,11632463
+Belgium,2023-08-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638570,9267224,9169583,11632471
+Belgium,2023-08-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638571,9267224,9169583,11632472
+Belgium,2023-08-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638577,9267224,9169583,11632478
+Belgium,2023-08-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638585,9267224,9169583,11632486
+Belgium,2023-08-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638591,9267225,9169584,11632490
+Belgium,2023-08-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638598,9267227,9169586,11632493
+Belgium,2023-08-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638611,9267228,9169586,11632505
+Belgium,2023-08-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638613,9267228,9169586,11632507
+Belgium,2023-08-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638620,9267229,9169587,11632512
+Belgium,2023-08-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638644,9267230,9169589,11632533
+Belgium,2023-08-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638657,9267230,9169592,11632543
+Belgium,2023-08-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638673,9267231,9169595,11632555
+Belgium,2023-08-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638675,9267231,9169595,11632557
+Belgium,2023-08-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638696,9267232,9169595,11632577
+Belgium,2023-08-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638712,9267232,9169596,11632592
+Belgium,2023-08-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638737,9267234,9169598,11632613
+Belgium,2023-08-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638747,9267236,9169599,11632620
+Belgium,2023-08-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638768,9267240,9169600,11632636
+Belgium,2023-08-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638777,9267240,9169600,11632645
+Belgium,2023-08-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638801,9267242,9169600,11632667
+Belgium,2023-08-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638822,9267242,9169601,11632687
+Belgium,2023-08-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638840,9267242,9169602,11632704
+Belgium,2023-08-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638860,9267242,9169603,11632723
+Belgium,2023-09-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638891,9267243,9169603,11632753
+Belgium,2023-09-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638907,9267243,9169603,11632769
+Belgium,2023-09-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638949,9267246,9169606,11632805
+Belgium,2023-09-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29638982,9267246,9169608,11632836
+Belgium,2023-09-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29639015,9267247,9169608,11632868
+Belgium,2023-09-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29639036,9267247,9169608,11632889
+Belgium,2023-09-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29639064,9267247,9169609,11632916
+Belgium,2023-09-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29639085,9267247,9169609,11632937
+Belgium,2023-09-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29639119,9267248,9169609,11632970
+Belgium,2023-09-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29639179,9267249,9169609,11633029
+Belgium,2023-09-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29639302,9267249,9169611,11633150
+Belgium,2023-09-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29640354,9267261,9169617,11634184
+Belgium,2023-09-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29641663,9267273,9169622,11635476
+Belgium,2023-09-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29642076,9267273,9169622,11635889
+Belgium,2023-09-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29642280,9267273,9169622,11636093
+Belgium,2023-09-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29644324,9267286,9169630,11638116
+Belgium,2023-09-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29650493,9267312,9169642,11644247
+Belgium,2023-09-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29659179,9267348,9169664,11652875
+Belgium,2023-09-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29672677,9267393,9169683,11666309
+Belgium,2023-09-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29691163,9267449,9169703,11684719
+Belgium,2023-09-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29703826,9267476,9169715,11697343
+Belgium,2023-09-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,29706059,9267479,9169717,11699571
